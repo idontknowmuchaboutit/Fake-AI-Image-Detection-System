@@ -37,7 +37,7 @@ dataset/
     └── fake/
 ```
 
-We recommend a balanced dataset (50% Real, 50% Fake).
+Recommend a balanced dataset (50% Real, 50% Fake).
 
 ## Training the Model
 
